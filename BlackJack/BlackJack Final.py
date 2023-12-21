@@ -1,4 +1,4 @@
-# Para poder hacer funcionar correctamente el BlackJack tuve que cambiar partes del GUI, ya que el juego se bloqueaba al pulsar el boton Stand
+# Javier Galan Albornoz
 
 import tkinter as tk
 from tkinter import PhotoImage, messagebox
